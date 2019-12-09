@@ -1,0 +1,59 @@
+.new{
+
+    text-align: center;
+}
+ .back{
+
+    background-image: url("parallax3.jpg");
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+ }
+
+ .ima{
+
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+
+ }
+.ah{
+
+display: flex;
+width: 250px;
+height: 150px;
+margin-left: 275px;
+text-align: center;
+
+}
+
+.m1{
+
+    margin: 75px;
+
+}
+
+.m2{
+
+    display: inline-block;
+    margin-right: 15px;
+    text-align: center;
+    
+}
+
+.m3{
+
+
+    align-items: center;
+}
+
+.ah2{
+
+    width: 250px;
+    height: 200px;
+    text-align: center;
+}
