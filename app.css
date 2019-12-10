@@ -116,16 +116,18 @@ footer{
     background-color:grey ;
     transition-property: all;
     transition-duration: 200ms;
+    color: white;
 
 }
 
 footer:hover{
 
     background-color: black;
+    color: white;
 }
 
 
 .m4{
 
-    margin-top: 50px;
+    margin-top: 75px;
 }
