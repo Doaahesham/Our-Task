@@ -42,6 +42,7 @@
     height: 12vw;
     /*margin: 5px;*/
     padding: 8px;
+    
 
  }
 
@@ -49,10 +50,12 @@
 .ah{
 
 
-width: 25vw;
+width: 20vw;
 height: 10vw;
 
 text-align: center;
+
+border-radius:4px ;
 
 }
 .colo{
@@ -193,6 +196,38 @@ a:active{
 
     cursor: pointer;
     
+
+}
+
+.form1{
+
+    width: 300px;
+    height: 50px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.form2{
+    width: 605px;
+    height: 50px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+
+}
+
+
+.marg3{
+
+    margin-left: 42vw;
+    width: 620px;
+    height: 200px;
+    margin-bottom: 50px;
 
 }
    @media(max-width: 992px)
