@@ -249,7 +249,5 @@ width: 100%;
         flex-direction: column;
       }
       .flex-container > div {
-       
         width: 100%;
-       
       }
